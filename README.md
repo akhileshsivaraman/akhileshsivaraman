@@ -10,7 +10,7 @@ Since then, I've been working on a healthtech business (Sukoon) and learnt softw
 
 <br>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=akhileshsivaraman&card_width=400px&custom_title="GitHub Stats")](https://github.com/akhileshsivaraman/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=akhileshsivaraman&card_width=400px)](https://github.com/akhileshsivaraman/github-readme-stats)
 
 <br>
 <a href="https://www.linkedin.com/in/akhilesh-sivaraman/">
