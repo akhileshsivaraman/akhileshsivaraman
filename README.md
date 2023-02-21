@@ -31,7 +31,6 @@ Since then, I've been working on a healthtech business (Sukoon) and learnt softw
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshsivaraman&hide=html&layout=compact&card_width=400px&theme=vue)](https://github.com/akhileshsivaraman/github-readme-stats)
 
 
-<br>
 <sub>
   The most used languages widget was added using Anurag Hazra's project: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 </sub>
