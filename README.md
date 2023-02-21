@@ -14,10 +14,12 @@ Since then, I've been working on a healthtech business (Sukoon) and learnt softw
 </a>
 
 
-The most used languages widget was added using Anurag Hazra's project: GitHub Readme Stats, 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-here
-</a>
+<sub>
+  The most used languages widget was added using Anurag Hazra's project:
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    GitHub Readme Stats
+  </a>
+</sub>
 
 <!--
 **akhileshsivaraman/akhileshsivaraman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
