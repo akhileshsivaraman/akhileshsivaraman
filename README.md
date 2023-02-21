@@ -6,11 +6,11 @@ I studied Biological Sciences at Imperial College London, where I first learnt R
 
 Since then, I've been working on a healthtech business (Sukoon) and learnt software engineering (using Python) while continuing to learn R and data science techniques.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshsivaraman&hide=html&layout=compact)](https://github.com/akhileshsivaraman/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshsivaraman&hide=html&layout=compact&card_width=400px)](https://github.com/akhileshsivaraman/github-readme-stats)
 
 <br>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=akhileshsivaraman)](https://github.com/akhileshsivaraman/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=akhileshsivaraman&card_width=400px&custom_title="GitHub Stats")](https://github.com/akhileshsivaraman/github-readme-stats)
 
 <br>
 <a href="https://www.linkedin.com/in/akhilesh-sivaraman/">
