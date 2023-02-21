@@ -12,11 +12,13 @@ Since then, I've been working on a healthtech business (Sukoon) and learnt softw
 </a>
 
 <hr>
-### 🧰:
-<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R programming language">
-<img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio">
+### 🧰 
+<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R programming language" width="40" height "40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio" width="40" height "40">
+
 
 <hr>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshsivaraman&hide=html&layout=compact&card_width=400px&theme=vue)](https://github.com/akhileshsivaraman/github-readme-stats)
 
 
