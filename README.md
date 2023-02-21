@@ -6,19 +6,23 @@ I studied Biological Sciences at Imperial College London, where I first learnt R
 
 Since then, I've been working on a healthtech business (Sukoon) and learnt software engineering (using Python) while continuing to learn R and data science techniques.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshsivaraman&hide=html&layout=compact&card_width=400px&theme=vue)](https://github.com/akhileshsivaraman/github-readme-stats)
-
 <br>
 <a href="https://www.linkedin.com/in/akhilesh-sivaraman/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
 </a>
 
+<hr>
+### 🧰:
+<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R programming language">
+<img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio">
 
+<hr>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshsivaraman&hide=html&layout=compact&card_width=400px&theme=vue)](https://github.com/akhileshsivaraman/github-readme-stats)
+
+
+<br>
 <sub>
-  The most used languages widget was added using Anurag Hazra's project:
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    GitHub Readme Stats
-  </a>
+  The most used languages widget was added using Anurag Hazra's project: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 </sub>
 
 <!--
