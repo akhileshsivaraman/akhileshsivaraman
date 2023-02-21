@@ -2,7 +2,14 @@
 
 I'm a life scientist who enjoys data analysis, data viz and statistics.
 
-I studied Biological Sciences at Imperial College London, where I first learnt R and took an interest in bioinformatics and computational biology, which led me to doing a couple of projects with Dr Martin Brazeau on phylogenetic methods, morphometrics and evolutionary modelling.
+I studied Biological Sciences at Imperial College London, where I first learnt R and took an interest in bioinformatics and computational biology, which led me to doing a couple of projects with Dr Martin Brazeau on 
+<a href="https://github.com/akhileshsivaraman/Morphological-Character-Hierarchies">
+   phylogenetic methods
+</a>
+, 
+<a href="https://github.com/akhileshsivaraman/VFE">
+   morphometrics and evolutionary modelling.
+</a>
 
 Since then, I've been working on a healthtech business (Sukoon) and learnt software engineering (using Python) while continuing to learn R and data science techniques.
 
