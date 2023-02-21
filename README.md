@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
 
+
+
+<a href="https://www.linkedin.com/in/akhilesh-sivaraman/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
+</a>
 
 <!--
 **akhileshsivaraman/akhileshsivaraman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
