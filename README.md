@@ -1,6 +1,10 @@
 ### Hi there 👋
 
+I'm a life scientist who enjoys statistics, playing around with data and learning programming.
 
+I studied Biological Sciences at Imperial College London, where I first learnt R and took an interest in bioinformatics and computational biology, which led me to doing a couple of projects with Dr Martin Brazeau on phylogenetic methods, morphometrics and evolutionary modelling.
+
+Since then, I have been working on my own healthtech business (Sukoon) and learnt software engineering, with HyperionDev, while continuing to learn R.
 
 
 <a href="https://www.linkedin.com/in/akhilesh-sivaraman/">
