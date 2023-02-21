@@ -32,7 +32,7 @@ Since then, I've been working on a healthtech business (Sukoon) and learnt softw
 
 
 <sub>
-  The most used languages widget was added using Anurag Hazra's project: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+  The most used languages widget was added using Anurag Hazra's project: GitHub Readme Stats <https://github.com/anuraghazra/github-readme-stats>
 </sub>
 
 <!--
