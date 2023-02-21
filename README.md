@@ -4,12 +4,14 @@ I'm a life scientist who enjoys statistics, playing around with data and learnin
 
 I studied Biological Sciences at Imperial College London, where I first learnt R and took an interest in bioinformatics and computational biology, which led me to doing a couple of projects with Dr Martin Brazeau on phylogenetic methods, morphometrics and evolutionary modelling.
 
-Since then, I've been working on a healthtech business (Sukoon) and learnt software engineering while continuing to learn R.
+Since then, I've been working on a healthtech business (Sukoon) and learnt software engineering (using Python) while continuing to learn R and data science techniques.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshsivaraman&hide=html)](https://github.com/akhileshsivaraman/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshsivaraman&hide=html&layout=compact)](https://github.com/akhileshsivaraman/github-readme-stats)
+
+<br>
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=akhileshsivaraman)](https://github.com/akhileshsivaraman/github-readme-stats)
 
-
+<br>
 <a href="https://www.linkedin.com/in/akhilesh-sivaraman/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
 </a>
