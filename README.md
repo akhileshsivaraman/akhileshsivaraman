@@ -6,12 +6,15 @@ I studied Biological Sciences at Imperial College London, where I first learnt R
 
 Since then, I've been working on a healthtech business (Sukoon) and learnt software engineering while continuing to learn R.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=akhileshsivaraman)](https://github.com/akhileshsivaraman/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshsivaraman)](https://github.com/akhileshsivaraman/github-readme-stats)
 
 
 <a href="https://www.linkedin.com/in/akhilesh-sivaraman/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
 </a>
+
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=akhileshsivaraman)](https://github.com/akhileshsivaraman/github-readme-stats)
 
 <!--
 **akhileshsivaraman/akhileshsivaraman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
