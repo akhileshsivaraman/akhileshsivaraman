@@ -6,11 +6,16 @@ I studied Biological Sciences at Imperial College London, where I first learnt R
 
 Since then, I've been working on a healthtech business (Sukoon) and learnt software engineering (using Python) while continuing to learn R and data science techniques.
 
-<br>
+<div>
+  <a href="https://www.linkedin.com/in/akhilesh-sivaraman/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~0154f90896d87d3878/">
+    <img src="https://img.shields.io/badge/Upwork-success?logo=upwork&logoColor=white"/>
+  </a>
+</div>
 
-<a href="https://www.linkedin.com/in/akhilesh-sivaraman/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
-</a>
+<br>
 
 
 ## Tech Stack 🧰
