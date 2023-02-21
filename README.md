@@ -12,7 +12,7 @@ Since then, I've been working on a healthtech business (Sukoon) and learnt softw
 </a>
 
 <hr>
-### Tech Stack 🧰
+### Tech Stack
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R programming language" width="40" height "40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio" width="40" height "40"/>&nbsp;
