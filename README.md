@@ -11,7 +11,7 @@ I studied Biological Sciences at Imperial College London, where I first learnt R
    morphometrics and evolutionary modelling.
 </a>
 
-Since then, I've been working on a healthtech business (Sukoon) and learnt software engineering (using Python) while continuing to learn R and data science techniques.
+Since then, I've mainly been working on a healthtech business (Sukoon) and learnt software engineering (using Python) while continuing to learn R and data science techniques.
 
 <div>
   <a href="https://www.linkedin.com/in/akhilesh-sivaraman/">
