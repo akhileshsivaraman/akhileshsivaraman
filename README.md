@@ -5,13 +5,11 @@ I'm a life scientist who enjoys data analysis, data viz and statistics.
 I studied Biological Sciences at Imperial College London, where I first learnt R and took an interest in bioinformatics and computational biology, which led me to doing a couple of projects with Dr Martin Brazeau on 
 <a href="https://github.com/akhileshsivaraman/Morphological-Character-Hierarchies">
    phylogenetic methods
-</a>
-&  
-<a href="https://github.com/akhileshsivaraman/VFE">
+</a> & <a href="https://github.com/akhileshsivaraman/VFE">
    morphometrics and evolutionary modelling.
 </a>
 
-Since then, I founded (and closed :() a healthtech startup, Sukoon, where we were developing a cardiac rehab service for low-resource settings and worked as a data scientist at the National Audit Office, where I used my R, Python and SQL skills to develop apps and ETL pipelines.
+Since then, I founded (and closed :cry:) a healthtech startup, Sukoon, where we were developing a cardiac rehab service for low-resource settings and worked as a data scientist at the National Audit Office, where I used my R, Python and SQL skills to develop apps and ETL pipelines.
 
 <div>
   <a href="https://www.linkedin.com/in/akhilesh-sivaraman/">
