@@ -9,7 +9,7 @@ I studied Biological Sciences at Imperial College London, where I first learnt R
    morphometrics and evolutionary modelling.
 </a>
 
-Since then, I founded (and closed :cry:) a healthtech startup, Sukoon, where we were developing a cardiac rehab service for low-resource settings and worked as a data scientist at the National Audit Office, where I used my R, Python and SQL skills to develop apps and ETL pipelines.
+Since then, I founded (and closed :cry:) a healthtech startup, Sukoon, where we were developing a cardiac rehab service for low-resource settings and worked as a data scientist at the National Audit Office, where I used my R, Python, Spark and SQL skills to develop apps and ETL pipelines.
 
 <div>
   <a href="https://www.linkedin.com/in/akhilesh-sivaraman/">
@@ -25,13 +25,14 @@ Since then, I founded (and closed :cry:) a healthtech startup, Sukoon, where we 
 
 ## Tech Stack 🧰
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R programming language" width="30" height "30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio" width="30" height "30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height "30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="30" height "30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="30" height "30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="30" height "30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="30" height "30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R programming language" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="Spark" width="30" height="30"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30"/>
 </div>
 
 <br>
