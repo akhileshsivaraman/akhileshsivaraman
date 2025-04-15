@@ -9,7 +9,7 @@ I studied Biological Sciences at Imperial College London, where I first learnt R
    morphometrics and evolutionary modelling.
 </a>
 
-Since then, I founded (and closed :cry:) a healthtech startup, Sukoon, where we were developing a cardiac rehab service for low-resource settings and worked as a data scientist at the National Audit Office, where I used my R, Python, Spark and SQL skills to develop apps and ETL pipelines.
+Since then, I founded (and closed :cry:) a healthtech startup, Sukoon, where we were developing a cardiac rehab service for low-resource settings and worked as a data scientist at the National Audit Office, where I used R, Python, Spark and SQL to develop apps and ETL pipelines.
 
 <div>
   <a href="https://www.linkedin.com/in/akhilesh-sivaraman/">
